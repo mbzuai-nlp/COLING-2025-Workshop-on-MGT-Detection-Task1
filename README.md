@@ -25,7 +25,9 @@ We have released our training and dev set.
 
 ## Competition
 
-The competition will be held on [Kaggle](https://www.kaggle.com/t/23638a8c0d59469196aa67f6bf747f0f).
+The competition will be held on Kaggle:
+- [Subtask A: English-only MGT detection](https://www.kaggle.com/t/23638a8c0d59469196aa67f6bf747f0f).
+- [Subtask B: Multilingual MGT detection]().
 
 ## Dataset
 **Download the training and devlopment sets** by [Google Drive]() or by [huggingface]().
