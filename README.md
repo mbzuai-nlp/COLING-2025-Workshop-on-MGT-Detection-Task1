@@ -33,6 +33,41 @@ Stay tuned!
 - Camera-Ready Deadline: December 22, 2025
 - Workshop Day: January 19-20, 2025
 
+### Prediction File Format and Format Checkers
+
+A prediction file must be one single JSONL file for all texts. The entry for each text must include the fields "id" and "label".  
+
+The format checkers verify that your prediction file complies with the expected format. They are located in the ```format_checker``` module.
+
+```python
+python3 format_checker.py --prediction_file_path=<path_to_your_results_files> 
+```
+
+Note that format checkers can not verify whether the prediction file you submit contains predictions for all test instances because it does not have an access to the test file.
+
+## <a name="scorer_and_official_evaluation_metrics"></a>Scorer and Official Evaluation Metrics
+
+The scorers for the subtasks are located in the ```scorer``` modules.
+The scorer will report the official evaluation metric and other metrics for a given prediction file.
+
+The **official evaluation metric** is **macro f1-score**. However, the scorer also reports accuracy and micro-F1. 
+
+The following command runs the scorer:
+```python
+python3 scorer.py --gold_file_path=<path_to_gold_labels> --prediction_file_path=<path_to_your_results_file> 
+```
+
+## <a name="baselines"></a>Baselines
+
+Running the Transformer baseline:
+ ```
+python3 baseline.py --train_file_path <path_to_train_file> --dev_file_path <path_to_development_file> --test_file_path <path_to_test_file> --prediction_file_path <path_to_save_predictions> --model <path_to_model>
+ ```
+
+The result for the English setup for RoBERTa is 81.63;
+
+The result for the multilingual setup for XLM-R is 65.46;
+
 ## Organizers
 
 - Firoj Alam, Qatar Computing Research Institute, Qatar
