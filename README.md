@@ -15,9 +15,9 @@ In the Task 1, we adopt a straightforward binary problem formulation from the pr
 
 ## NEWS 
 
-### 26 Aug 2024
+### 15 Aug 2024
 
-Stay tuned!
+We have released our training and dev set.
 
 ## Competition
 
