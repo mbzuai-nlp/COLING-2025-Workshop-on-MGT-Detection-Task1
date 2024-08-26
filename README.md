@@ -30,7 +30,7 @@ The competition will be held on Kaggle:
 - [Subtask B: Multilingual MGT detection]().
 
 ## Dataset
-**Download the training and devlopment sets** by [Google Drive]() or by [huggingface]().
+**Download the training and devlopment sets** by [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) or by [huggingface]().
 
 ### Statitical Information
 
