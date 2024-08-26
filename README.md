@@ -15,7 +15,7 @@ In the Task 1, we adopt a straightforward binary problem formulation from the pr
 
 ## NEWS 
 
-### 15 Aug 2024
+### 27 Aug 2024
 
 We have released our training and dev set.
 
@@ -25,7 +25,7 @@ The competition will be held on [Kaggle](https://www.kaggle.com/t/23638a8c0d5946
 
 ## <a name="important_dates"></a>Important Dates
 
-- 15th August, 2024: Training/dev set release
+- 27th August, 2024: Training/dev set release
 - 20th October, 2024: Test set release and evaluation phase starts
 - 25th October, 2024: Evaluation phase closes
 - 28th October, 2024: Leaderboard to be public
