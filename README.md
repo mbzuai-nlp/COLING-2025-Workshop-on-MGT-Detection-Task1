@@ -25,13 +25,13 @@ The competition will be held on Kaggle, the link will be available soon.
 
 ## Important Dates
 
-- Regular Submission Deadline: November 15, 2024 (dual-submission allowed)
-- Re-submission (with a rebuttal) Deadline: December 2, 2024
-- Acceptance Notification: December 15, 2024
-- Camera-Ready Deadline: December 22, 2025
-- Workshop Day: January 19-20, 2025
+- 15th August, 2024: Training/dev set release
+- 20th October, 2024: Test set release and evaluation phase starts
+- 25th October, 2024: Evaluation phase closes
+- 28th October, 2024: Leaderboard to be public
+- 15th November, 2024: System description paper submission
 
-### Prediction File Format and Format Checkers
+## Prediction File Format and Format Checkers
 
 A prediction file must be one single JSONL file for all texts. The entry for each text must include the fields "id" and "label".  
 
