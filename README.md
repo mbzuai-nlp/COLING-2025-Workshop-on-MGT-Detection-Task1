@@ -68,69 +68,78 @@ The result for the multilingual setup for XLM-R is 65.46;
 
 ## Organizers
 
-- Firoj Alam, Qatar Computing Research Institute, Qatar
+[//]: # (- Firoj Alam, Qatar Computing Research Institute, Qatar)
 - Preslav Nakov, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Nizar Habash, New York University Abu Dhabi, UAE
 - Iryna Gurevych, Mohamed bin Zayed University of Artificial Intelligence, UAE; Technical University of Darmstadt, Germany
-- Shammur Chowdhury, Qatar Computing Research Institute, HBKU, Qatar
+
+[//]: # (- Shammur Chowdhury, Qatar Computing Research Institute, HBKU, Qatar)
 - Artem Shelmanov, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Yuxia Wang, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Ekaterina Artemova, Toloka AI, Netherlands
-- Mucahid Kutlu, Qatar University, Qatar
-- George Mikros, Hamad Bin Khalifa University, Qatar
+
+[//]: # (- Mucahid Kutlu, Qatar University, Qatar)
+[//]: # (- George Mikros, Hamad Bin Khalifa University, Qatar)
 - Osama Mohammed Afzal, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Jonibek Mansurov, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Thomas Arnold, Technical University Darmstadt
+
+[//]: # (- Thomas Arnold, Technical University Darmstadt)
 - Nizar Habash, Mohamed bin Zayed University of Artificial Intelligence
-- Hariram Veeramani, UCLA, USA
-- Md Tanvirul Alam, Rochester Institute of Technology, USA
-- Sahinur Rahman Laskar, UPES, Dehradun, India
-- Somnath Banerjee, University of Tartu, Estonia
-- Noureldin Elmadany, Arab Academy for Science and Technology, Egypt
-- Md Saiful Islam, University of Alberta, USA
-- Abdullah I. Alharbi, King Abdulaziz University, Saudi Arabia
-- Maram Hasanain, Qatar Computing Research Institute, Qatar
+
+[//]: # (- Hariram Veeramani, UCLA, USA)
+[//]: # (- Md Tanvirul Alam, Rochester Institute of Technology, USA)
+[//]: # (- Sahinur Rahman Laskar, UPES, Dehradun, India)
+[//]: # (- Somnath Banerjee, University of Tartu, Estonia)
+[//]: # (- Noureldin Elmadany, Arab Academy for Science and Technology, Egypt)
+[//]: # (- Md Saiful Islam, University of Alberta, USA)
+[//]: # (- Abdullah I. Alharbi, King Abdulaziz University, Saudi Arabia)
+[//]: # (- Maram Hasanain, Qatar Computing Research Institute, Qatar)
 - Alham Fikri Aji, MBZUAI, UAE
 - Zhuohan Xie, MBZUAI, UAE
 - Tarek Mahmoud, MBZUAI, UAE
 - Jinyan Su, Cornell University, USA
 - Rui Xing, MBZUAI, UAE
 - Jiahui Geng, MBZUAI, UAE
-- Yassine El Kheir, Technical University Berlin, Germany
+
+[//]: # (- Yassine El Kheir, Technical University Berlin, Germany)
 - Giovanni Puccetti, Institute of Information Science and Technology “A. Faedo”, Italy
-- Vladislav Mikhailov, University of Oslo, Norway
+
+[//]: # (- Vladislav Mikhailov, University of Oslo, Norway)
 - Masahiro Kaneko, MBZUAI, UAE
 - Ryuto Koike, Tokyo Institute of Technology, Japan
-- Orchid Chetia Phukan, Indraprastha Institute of Information Technology Delhi, India
-- Koel Dutta Chowdhury, Saarland University, Germany
-- Saied Alshahrani, Clarkson University, USA
+
+[//]: # (- Orchid Chetia Phukan, Indraprastha Institute of Information Technology Delhi, India)
+[//]: # (- Koel Dutta Chowdhury, Saarland University, Germany)
+[//]: # (- Saied Alshahrani, Clarkson University, USA)
 - Fahad Shamshad, MBZUAI, UAE
-- Md Messal Monem Miah, Texas A&M University, USA
-- Shah Nawaz, Johannes Kepler University Linz, Austria
-- Dr. Bishwa Ranjan Das, Interscience Institute of Management and Technology, India
-- Nada Ayman GabAllah, Coventry University, Egypt Branch, Egypt
-- Kamel Gaanoun, Institut National de Statistiques et d’Economie Appliquée, Morocco
-- Shailja Thakur, IBM Research, USA
-- Amr Keleg, University of Edinburgh, UK
+
+[//]: # (- Md Messal Monem Miah, Texas A&M University, USA)
+[//]: # (- Shah Nawaz, Johannes Kepler University Linz, Austria)
+[//]: # (- Dr. Bishwa Ranjan Das, Interscience Institute of Management and Technology, India)
+[//]: # (- Nada Ayman GabAllah, Coventry University, Egypt Branch, Egypt)
+[//]: # (- Kamel Gaanoun, Institut National de Statistiques et d’Economie Appliquée, Morocco)
+[//]: # (- Shailja Thakur, IBM Research, USA)
+[//]: # (- Amr Keleg, University of Edinburgh, UK)
 - Akim Tsvigun, University of Amsterdam, Netherlands
-- Muhammad Amin Nadim, University of Pegaso, Italy
-- Marc Franco-Salvador, Symanto Research, Germany
-- José Ángel González, Symanto Research, Germany
-- Areg Mikael Sarvazyan, Symanto Research, Germany
-- Walter Daelemans, University of Antwerp, Belgium
-- Piotr Przybyła, Universitat Pompeu Fabra, Italy
-- Adaku Uchendu,  MIT Lincoln Laboratory, USA 
-- Sheily Panwar, CUC-Ulster University (Doha), Qatar
-- Xianjun Yang, UCSB, USA 
-- Fatima Haouari, Qatar University
-- Fahim Shakil Tamim, IUBAT, Bangladesh
-- Zach Johnson, Microsoft, USA
-- Abubakarr Jaye, Microsoft, USA 
-- Jason Lucas, Penn State University, USA
-- Francisco Rangel, Genaios, Germany
-- Erum Haris, University of Leeds, UK
-- Mohammad Ruhul Amin, Fordham University, USA
-- Ram Mohan Rao Kadiyala, University of Maryland, USA
+
+[//]: # (- Muhammad Amin Nadim, University of Pegaso, Italy)
+[//]: # (- Marc Franco-Salvador, Symanto Research, Germany)
+[//]: # (- José Ángel González, Symanto Research, Germany)
+[//]: # (- Areg Mikael Sarvazyan, Symanto Research, Germany)
+[//]: # (- Walter Daelemans, University of Antwerp, Belgium)
+[//]: # (- Piotr Przybyła, Universitat Pompeu Fabra, Italy)
+[//]: # (- Adaku Uchendu,  MIT Lincoln Laboratory, USA )
+[//]: # (- Sheily Panwar, CUC-Ulster University &#40;Doha&#41;, Qatar)
+[//]: # (- Xianjun Yang, UCSB, USA )
+[//]: # (- Fatima Haouari, Qatar University)
+[//]: # (- Fahim Shakil Tamim, IUBAT, Bangladesh)
+[//]: # (- Zach Johnson, Microsoft, USA)
+[//]: # (- Abubakarr Jaye, Microsoft, USA )
+[//]: # (- Jason Lucas, Penn State University, USA)
+[//]: # (- Francisco Rangel, Genaios, Germany)
+[//]: # (- Erum Haris, University of Leeds, UK)
+[//]: # (- Mohammad Ruhul Amin, Fordham University, USA)
+[//]: # (- Ram Mohan Rao Kadiyala, University of Maryland, USA)
 
 ## Contacts
 
