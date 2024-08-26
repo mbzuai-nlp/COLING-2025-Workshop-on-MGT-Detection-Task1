@@ -80,11 +80,10 @@ The result for the multilingual setup for XLM-R is 65.46;
 - Ekaterina Artemova, Toloka AI, Netherlands
 - Mucahid Kutlu, Qatar University, Qatar
 - George Mikros, Hamad Bin Khalifa University, Qatar
-- Osama Mohammed Afzal, Mohamed bin Zayed University of Artificial Intelligence
+- Osama Mohammed Afzal, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- Jonibek Mansurov, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Thomas Arnold, Technical University Darmstadt
-- Iryna Gurevych, Mohamed bin Zayed University of Artificial Intelligence
 - Nizar Habash, Mohamed bin Zayed University of Artificial Intelligence
-- Preslav Nakov, Mohamed bin Zayed University of Artificial Intelligence
 - Hariram Veeramani, UCLA, USA
 - Md Tanvirul Alam, Rochester Institute of Technology, USA
 - Sahinur Rahman Laskar, UPES, Dehradun, India
