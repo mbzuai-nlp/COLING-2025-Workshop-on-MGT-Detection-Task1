@@ -68,9 +68,9 @@ Running the Transformer baseline:
 python3 baseline.py --train_file_path <path_to_train_file> --dev_file_path <path_to_development_file> --test_file_path <path_to_test_file> --prediction_file_path <path_to_save_predictions> --model <path_to_model>
  ```
 
-The result for the English setup for RoBERTa is 81.63;
+The result for the English track using **RoBERTa is 81.63**.
 
-The result for the multilingual setup for XLM-R is 65.46;
+The result for the multilingual track using **XLM-R is 65.46**.
 
 ## Organizers
 
@@ -84,15 +84,16 @@ The result for the multilingual setup for XLM-R is 65.46;
 - Osama Mohammed Afzal, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Jonibek Mansurov, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Zhuohan Xie, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Tarek Mahmoud, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Jinyan Su, Cornell University, USA
-- Rui Xing, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Jiahui Geng, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- Akim Tsvigun, University of Amsterdam, Netherlands
 - Giovanni Puccetti, Institute of Information Science and Technology “A. Faedo”, Italy
+- Rui Xing, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- Tarek Mahmoud, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- Jiahui Geng, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Masahiro Kaneko, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Ryuto Koike, Tokyo Institute of Technology, Japan
 - Fahad Shamshad, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Akim Tsvigun, University of Amsterdam, Netherlands
+
 
 ## Contacts
 
