@@ -21,7 +21,7 @@ We have released our training and dev set.
 
 ## Competition
 
-The competition will be held on Kaggle, the link will be available soon.
+The competition will be held on [Kaggle](https://www.kaggle.com/t/23638a8c0d59469196aa67f6bf747f0f).
 
 ## Important Dates
 
