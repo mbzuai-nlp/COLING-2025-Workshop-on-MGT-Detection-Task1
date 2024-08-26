@@ -1,4 +1,4 @@
-# Task 1: Binary Multilingual Machine-Generated Text Detection (Human vs. Machine)
+# Task 1: Binary Multilingual Machine-Generated Text Detection
 
 [![Code License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://raw.githubusercontent.com/mbzuai-nlp/SemEval2024-task8/subtask_A_and_B/LICENSE)
 
@@ -7,7 +7,7 @@
 </p>
 
 
-[News](#news) | [Competition](#competition) | [Data Source](#data_source) | [Data Format](#data_format) | [Evaluation Metrics](#scorer_and_official_evaluation_metrics) | [Baselines](#baselines) | [FAQ](#faq) | [Organizers](#organizers) | [Contacts](#contacts)
+[News](#news) | [Competition](#competition) | [Important Dates](#important_dates) | [Data Format](#data_format) | [Evaluation Metrics](#scorer_and_official_evaluation_metrics) | [Baselines](#baselines) | [Organizers](#organizers) | [Contacts](#contacts)
 
 Large language models (LLMs) are becoming mainstream and easily accessible, ushering in an explosion of machine-generated content over various channels, such as news, social media, question-answering forums, educational, and even academic contexts. Recent LLMs, such as ChatGPT and GPT-4, generate remarkably fluent responses to a wide variety of user queries. The articulate nature of such generated texts makes LLMs attractive for replacing human labor in many scenarios. However, this has also resulted in concerns regarding their potential misuse, such as spreading misinformation and causing disruptions in the education system. Since humans perform only slightly better than chance when classifying machine-generated vs. human-written text, there is a need to develop automatic systems to identify machine-generated text with the goal of mitigating its potential misuse. 
 
@@ -21,9 +21,9 @@ We have released our training and dev set.
 
 ## Competition
 
-The competition will be held on Kaggle, the link will be available soon.
+The competition will be held on [Kaggle](https://www.kaggle.com/t/23638a8c0d59469196aa67f6bf747f0f).
 
-## Important Dates
+## <a name="important_dates"></a>Important Dates
 
 - 15th August, 2024: Training/dev set release
 - 20th October, 2024: Test set release and evaluation phase starts
@@ -31,7 +31,7 @@ The competition will be held on Kaggle, the link will be available soon.
 - 28th October, 2024: Leaderboard to be public
 - 15th November, 2024: System description paper submission
 
-## Prediction File Format and Format Checkers
+## <a name="data_format"></a>Prediction File Format and Format Checkers
 
 A prediction file must be one single JSONL file for all texts. The entry for each text must include the fields "id" and "label".  
 
