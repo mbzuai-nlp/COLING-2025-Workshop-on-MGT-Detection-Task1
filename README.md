@@ -21,6 +21,8 @@ Stay tuned!
 
 ## Competition
 
+The competition will be held on Kaggle, the link will be available soon.
+
 ## Important Dates
 
 - Regular Submission Deadline: November 15, 2024 (dual-submission allowed)
