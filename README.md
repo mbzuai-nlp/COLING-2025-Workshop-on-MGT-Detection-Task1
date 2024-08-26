@@ -68,25 +68,24 @@ The result for the multilingual setup for XLM-R is 65.46;
 
 ## Organizers
 
-- Preslav Nakov, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Nizar Habash, New York University Abu Dhabi, UAE
+- Preslav Nakov, Mohamed bin Zayed University of Artificial Intelligence, UAE 
 - Iryna Gurevych, Mohamed bin Zayed University of Artificial Intelligence, UAE; Technical University of Darmstadt, Germany
-- Artem Shelmanov, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- Nizar Habash, New York University Abu Dhabi, UAE
+- Alham Fikri Aji, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Yuxia Wang, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- Artem Shelmanov, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Ekaterina Artemova, Toloka AI, Netherlands
 - Osama Mohammed Afzal, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Jonibek Mansurov, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- Nizar Habash, Mohamed bin Zayed University of Artificial Intelligence
-- Alham Fikri Aji, MBZUAI, UAE
-- Zhuohan Xie, MBZUAI, UAE
-- Tarek Mahmoud, MBZUAI, UAE
+- Zhuohan Xie, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- Tarek Mahmoud, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Jinyan Su, Cornell University, USA
-- Rui Xing, MBZUAI, UAE
-- Jiahui Geng, MBZUAI, UAE
+- Rui Xing, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- Jiahui Geng, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Giovanni Puccetti, Institute of Information Science and Technology “A. Faedo”, Italy
-- Masahiro Kaneko, MBZUAI, UAE
+- Masahiro Kaneko, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Ryuto Koike, Tokyo Institute of Technology, Japan
-- Fahad Shamshad, MBZUAI, UAE
+- Fahad Shamshad, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Akim Tsvigun, University of Amsterdam, Netherlands
 
 ## Contacts
