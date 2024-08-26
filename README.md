@@ -30,9 +30,7 @@ The competition will be held on Kaggle:
 - [Subtask B: Multilingual MGT detection](https://www.kaggle.com/t/322310be8b3e4ddb9d2fc3b16f74224e).
 
 ## Dataset
-**Download the training and devlopment sets** by [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) or by huggingface ([Ennglish](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_en) and [Multilingual](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_multingual)).
-
-### Statitical Information
+**Download the training and dev sets** by [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) or by huggingface ([Ennglish](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_en) and [Multilingual](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_multingual)).
 
 
 ## <a name="important_dates"></a>Important Dates
