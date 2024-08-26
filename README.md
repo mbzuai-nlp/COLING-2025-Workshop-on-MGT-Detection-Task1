@@ -1,4 +1,4 @@
-# Task 1: Binary Multilingual Machine-Generated Text Detection (Human vs. Machine)
+# Task 1: Binary Multilingual Machine-Generated Text Detection
 
 [![Code License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://raw.githubusercontent.com/mbzuai-nlp/SemEval2024-task8/subtask_A_and_B/LICENSE)
 
