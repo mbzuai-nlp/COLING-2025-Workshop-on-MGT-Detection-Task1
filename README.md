@@ -37,6 +37,8 @@ The competition will be held on Kaggle:
 <p align="center"> <img src="images/en_source_model.jpg" style="width: 85%;" id="title-icon"></p>
 
 #### Multilingual:
+<p align="center"> <img src="images/multilingual_1_of_2.jpg" style="width: 85%;" id="title-icon"></p>
+<p align="center"> <img src="images/multilingual_2_of_2.jpg" style="width: 85%;" id="title-icon"></p>
 
 ## <a name="important_dates"></a>Important Dates
 
