@@ -32,6 +32,11 @@ The competition will be held on Kaggle:
 ## Dataset
 **Download the training and dev sets** by [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) or by huggingface ([English](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_en) and [Multilingual](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_multingual)).
 
+#### English:
+<p align="center"> <img src="images/en_src_sub_lab_breakdown.jpg" style="width: 85%;" id="title-icon"></p>
+<p align="center"> <img src="images/en_source_model.jpg" style="width: 85%;" id="title-icon"></p>
+
+#### Multilingual:
 
 ## <a name="important_dates"></a>Important Dates
 
