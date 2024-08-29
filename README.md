@@ -25,9 +25,8 @@ We have released our training and dev set.
 
 ## Competition
 
-The competition will be held on Kaggle:
-- [Subtask A: English-only MGT detection](https://www.kaggle.com/t/23638a8c0d59469196aa67f6bf747f0f).
-- [Subtask B: Multilingual MGT detection](https://www.kaggle.com/t/322310be8b3e4ddb9d2fc3b16f74224e).
+The competition id held on Codabench:
+- [Competition](https://www.codabench.org/competitions/3734/#/participate-tab)
 
 ## Dataset
 **Download the training and dev sets** by [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) or by huggingface ([English](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_en) and [Multilingual](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_multingual)).
