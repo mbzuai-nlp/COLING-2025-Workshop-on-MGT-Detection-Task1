@@ -95,7 +95,7 @@ The result for the multilingual track using **XLM-R is 65.46**.
 - Jonibek Mansurov, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Zhuohan Xie, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Jinyan Su, Cornell University, USA
-- Akim Tsvigun, University of Amsterdam, Netherlands
+- Akim Tsvigun, Nebius AI, Netherlands
 - Giovanni Puccetti, Institute of Information Science and Technology “A. Faedo”, Italy
 - Rui Xing, Mohamed bin Zayed University of Artificial Intelligence, UAE
 - Tarek Mahmoud, Mohamed bin Zayed University of Artificial Intelligence, UAE
