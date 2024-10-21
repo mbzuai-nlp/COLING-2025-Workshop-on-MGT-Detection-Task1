@@ -19,6 +19,9 @@ There are two subtasks:
 
 ## NEWS 
 
+### 21 Oct 2024
+We extend **test set release time to Oct 29**, 2024
+
 ### 27 Aug 2024
 
 We have released our training and dev set.
@@ -42,7 +45,7 @@ The competition id held on Codabench:
 ## <a name="important_dates"></a>Important Dates
 
 - 27th August, 2024: Training/dev set release
-- 20th October, 2024: Test set release and evaluation phase starts
+- 20th October (extended to 29th Oct), 2024: Test set release and evaluation phase starts
 - 25th October, 2024: Evaluation phase closes
 - 28th October, 2024: Leaderboard to be public
 - 15th November, 2024: System description paper submission
