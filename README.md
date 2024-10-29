@@ -19,6 +19,12 @@ There are two subtasks:
 
 ## NEWS 
 
+### 29 Oct 2024
+We are excited to release our test sets for both English and Multilingual Track. Download Test Set from [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) 
+
+**Note that** submit by the original text order, **human label = 0, machine label = 1**. 
+Looking forward to your excellent detection results!
+
 ### 21 Oct 2024
 We extend **test set release time to Oct 29**, 2024
 
