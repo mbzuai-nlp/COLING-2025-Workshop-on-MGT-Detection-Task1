@@ -51,9 +51,9 @@ The competition id held on Codabench:
 ## <a name="important_dates"></a>Important Dates
 
 - 27th August, 2024: Training/dev set release
-- 20th October (extended to 29th Oct), 2024: Test set release and evaluation phase starts
-- 25th October, 2024: Evaluation phase closes
-- 28th October, 2024: Leaderboard to be public
+- ~~20th October~~ (extended to 29th Oct), 2024: Test set release and evaluation phase starts
+- ~~25th October~~ (extended to 2dn Nov), 2024: Evaluation phase closes
+- ~~28th October~~ (extended to 5th Nov), 2024: Leaderboard to be public
 - 15th November, 2024: System description paper submission
 
 ## <a name="data_format"></a>Prediction File Format and Format Checkers
