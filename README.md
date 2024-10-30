@@ -49,6 +49,7 @@ The competition id held on Codabench:
 <p align="center"> <img src="images/multilingual_2_of_2.jpg" style="width: 85%;" id="title-icon"></p>
 
 ## <a name="important_dates"></a>Important Dates
+All dates are AoE.
 
 - 27th August, 2024: Training/dev set release
 - ~~20th October~~ (extended to 29th Oct), 2024: Test set release and evaluation phase starts
