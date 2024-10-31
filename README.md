@@ -19,6 +19,13 @@ There are two subtasks:
 
 ## NEWS 
 
+### 31 Oct 2024: Update Test Sets
+**Updated Test Sets!**
+Some of our participants provide valuable feedback to us for the test sets. To improve the quality of test sets, we removed some rows, while kept the original ids.
+**Please Check the Updated Test Sets** from [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) 
+
+You may see score=-1 when you submit your results to Codabench. This is normal. You will see the accuracy and rank by the next mintues of evaluation phase. The last submission counts.
+
 ### 29 Oct 2024
 We are excited to release our test sets for both English and Multilingual Track. Download Test Set from [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) 
 
