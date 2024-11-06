@@ -46,7 +46,7 @@ We have released our training and dev set.
 
 [The competition id held on Codabench](https://www.codabench.org/competitions/3734/#/participate-tab)
 
-## Official Results
+## Results
 [Official results for the test phase](https://docs.google.com/spreadsheets/d/1Wmxpi3ipYURuYHeLWFhCvKrpL55pquvF6Nr1CXwYNe4/edit?gid=0#gid=0)
 
 ## Dataset
