@@ -7,7 +7,7 @@
 </p>
 
 
-[News](#news) | [Competition](#competition) | [Dataset](#dataset) | [Important Dates](#important_dates) | [Data Format](#data_format) | [Evaluation Metrics](#scorer_and_official_evaluation_metrics) | [Baselines](#baselines) | [Organizers](#organizers) | [Contacts](#contacts)
+[News](#news) | [Competition](#competition) | [Results](#results) | [Dataset](#dataset) | [Important Dates](#important_dates) | [Data Format](#data_format) | [Evaluation Metrics](#scorer_and_official_evaluation_metrics) | [Baselines](#baselines) | [Organizers](#organizers) | [Contacts](#contacts)
 
 Large language models (LLMs) are becoming mainstream and easily accessible, ushering in an explosion of machine-generated content over various channels, such as news, social media, question-answering forums, educational, and even academic contexts. Recent LLMs, such as GPT-4o, Claude3.5 and Gemini1.5-pro, generate remarkably fluent responses to a wide variety of user queries. The articulate nature of such generated texts makes LLMs attractive for replacing human labor in many scenarios. However, this has also resulted in concerns regarding their potential misuse, such as spreading misinformation and causing disruptions in the education system. Since humans perform only slightly better than chance when classifying machine-generated vs. human-written text, there is a need to develop automatic systems to identify machine-generated text with the goal of mitigating its potential misuse. 
 
@@ -18,6 +18,9 @@ There are two subtasks:
 - Subtask B: Multilingual MGT detection.
 
 ## NEWS 
+
+### 6 Nov 2024: Results for the Test Phase are Released
+[Results](#results)
 
 ### 31 Oct 2024: Update Test Sets
 **Updated Test Sets!**
@@ -41,8 +44,10 @@ We have released our training and dev set.
 
 ## Competition
 
-The competition id held on Codabench:
-- [Competition](https://www.codabench.org/competitions/3734/#/participate-tab)
+[The competition id held on Codabench](https://www.codabench.org/competitions/3734/#/participate-tab)
+
+## Official Results
+[Official results for the test phase](https://docs.google.com/spreadsheets/d/1Wmxpi3ipYURuYHeLWFhCvKrpL55pquvF6Nr1CXwYNe4/edit?gid=0#gid=0)
 
 ## Dataset
 **Download the training and dev sets** by [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) or by huggingface ([English](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_en) and [Multilingual](https://huggingface.co/datasets/Jinyan1/COLING_2025_MGT_multingual)).
