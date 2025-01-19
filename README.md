@@ -17,7 +17,7 @@ There are two subtasks:
 - Subtask A: English-only MGT detection.
 - Subtask B: Multilingual MGT detection.
 
-[Link to the overview paper](https://drive.google.com/file/d/11x7NxQOeY0a7URoi96B8j0ranClBJq-Y/view?usp=drive_link)
+[Link to the overview paper](https://github.com/mbzuai-nlp/COLING-2025-Workshop-on-MGT-Detection-Task1/blob/main/COLING2025_Shared_Task1_Overview_paper.pdf)
 
 ## NEWS 
 ### 7 Nov 2024: Dev-test and Test Gold Labels Release
