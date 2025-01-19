@@ -17,6 +17,8 @@ There are two subtasks:
 - Subtask A: English-only MGT detection.
 - Subtask B: Multilingual MGT detection.
 
+[Link to the overview paper](https://drive.google.com/file/d/11x7NxQOeY0a7URoi96B8j0ranClBJq-Y/view?usp=drive_link)
+
 ## NEWS 
 ### 7 Nov 2024: Dev-test and Test Gold Labels Release
 **Please Check the Gold Labels of Dec-test and Test Sets** from [Google Drive](https://drive.google.com/drive/folders/1Mz8vTnqi7truGrc05v6kWaod6mEK7Enj?usp=sharing) 
